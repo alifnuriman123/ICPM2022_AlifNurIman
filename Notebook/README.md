@@ -1,1 +1,2 @@
-- For comparison purpose, it is recommended to use same train and test file (We recommend only do "Preprocessing Part" once each task, and save the file) 
+For comparison purpose, it is recommended to use same Train and Test files.
+(We recommend only do "Preprocessing Part" once each task, and save the file) 
